@@ -1,11 +1,11 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This code book summarizes the resulting data fields in `Tidy.txt`.
 
 ## Identifiers
 
-`subject` - The ID of the test subject
-`activity` - The type of activity performed when the corresponding measurements were taken
+`subject` - ID of the test subject
+`activity` -type of activity performed when the corresponding measurements were taken
 
 ## Measurements
 ##  [1] "TimeBodyAccelerometerMean()-X"                    
@@ -97,11 +97,11 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 
 ## Activity Labels
 
-## LAYING: subject was laying down during the test
-## SITTING: subject was sitting during the test
-## STANDING: subject was standing during the test
-## WALKING : subject was walking during the test
-## WALKING_UPSTAIRS : subject was walking up a staircase during the test
-## WALKING_DOWNSTAIRS: subject was walking down a staircase during the test
+## LAYING: The person was laying down during the test
+## SITTING: The personThe personThe person was sitting during the test
+## STANDING: The personThe person was standing during the test
+## WALKING : The person was walking during the test
+## WALKING_UPSTAIRS : The person was walking up a staircase during the test
+## WALKING_DOWNSTAIRS: The person was walking down a staircase during the test
 
 
